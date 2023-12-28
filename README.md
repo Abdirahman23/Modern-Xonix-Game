@@ -7,3 +7,5 @@ The "Modern Xonix" Game is a contemporary adaptation of the classic arcade game 
  look and additional features. The development of "Modern Xonix" likely involves game 
  designers, programmers, and artists working together to create a game that balances the
  charm of the original with innovative updates for a modern gaming audience.
+
+![image](https://github.com/Abdirahman23/Modern-Xonix-Game/assets/77121312/6797d8c3-fe3a-4d0a-8609-e5579ab62e86)
